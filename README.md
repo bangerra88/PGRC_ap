@@ -1,4 +1,5 @@
 This is a manual archipelago implementation for Parking Garage Rally Circuit.
+
 Instructions:
 - Drop the .apworld into your archipelago/lib/worlds folder
 - Put the .yaml into your archipelago/Players folder
